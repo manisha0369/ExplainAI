@@ -1,4 +1,4 @@
-package com.dinesh.explainitai
+package com.manisha.explainitai
 
 import org.junit.Test
 

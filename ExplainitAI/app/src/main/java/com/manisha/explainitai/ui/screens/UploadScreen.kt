@@ -1,4 +1,4 @@
-package com.dinesh.explainitai.ui.screens
+package com.manisha.explainitai.ui.screens
 
 import android.content.Context
 import android.net.Uri
@@ -27,8 +27,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
-import com.dinesh.explainitai.utils.PdfHistoryItem
-import com.dinesh.explainitai.utils.PdfHistoryManager
+import com.manisha.explainitai.utils.PdfHistoryItem
+import com.manisha.explainitai.utils.PdfHistoryManager
 import java.io.File
 
 @Composable

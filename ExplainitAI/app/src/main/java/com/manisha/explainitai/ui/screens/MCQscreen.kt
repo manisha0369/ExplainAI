@@ -1,4 +1,4 @@
-package com.dinesh.explainitai.ui.screens
+package com.manisha.explainitai.ui.screens
 
 import androidx.compose.animation.animateColorAsState
 import androidx.compose.animation.core.tween
@@ -16,8 +16,8 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.dinesh.explainitai.network.ApiService
-import com.dinesh.explainitai.network.MCQ
+import com.manisha.explainitai.network.ApiService
+import com.manisha.explainitai.network.MCQ
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext

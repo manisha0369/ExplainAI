@@ -1,4 +1,4 @@
-package com.dinesh.explainitai
+package com.manisha.explainitai
 
 import android.net.Uri
 import android.os.Bundle
@@ -12,9 +12,9 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
-import com.dinesh.explainitai.network.MCQ
-import com.dinesh.explainitai.ui.screens.*
-import com.dinesh.explainitai.ui.theme.ExplainItAITheme
+import com.manisha.explainitai.network.MCQ
+import com.manisha.explainitai.ui.screens.*
+import com.manisha.explainitai.ui.theme.ExplainItAITheme
 
 sealed class Screen {
     object Upload : Screen()

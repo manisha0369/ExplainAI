@@ -236,6 +236,11 @@ No license has been specified for this project.
 
 
 
-# Important Node
+# Important Note
 
 Before running this code please change the IP address in ApiService.kt and in network_security_config.xml
+
+1. Open ollama
+2. Go to backend folder and open terminal and run "node .\server.js"
+3. Check ip address of Wifi using ipconfig and use ipv4 address 
+4. Change the ip address in networks/ApiService.kt and res/xml/network_security_config.xml 

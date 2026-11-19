@@ -1,4 +1,4 @@
-package com.dinesh.explainitai.ui.screens
+package com.manisha.explainitai.ui.screens
 
 import android.Manifest
 import android.content.Intent
@@ -35,7 +35,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
 import androidx.core.content.ContextCompat
-import com.dinesh.explainitai.network.ApiService
+import com.manisha.explainitai.network.ApiService
 import io.noties.markwon.Markwon
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

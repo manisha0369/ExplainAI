@@ -1,4 +1,4 @@
-package com.dinesh.explainitai
+package com.manisha.explainitai
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

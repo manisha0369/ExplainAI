@@ -1,4 +1,4 @@
-package com.dinesh.explainitai.ui.screens
+package com.manisha.explainitai.ui.screens
 
 import android.graphics.Bitmap
 import android.graphics.Color
@@ -21,7 +21,7 @@ import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
-import com.dinesh.explainitai.network.ApiService
+import com.manisha.explainitai.network.ApiService
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext

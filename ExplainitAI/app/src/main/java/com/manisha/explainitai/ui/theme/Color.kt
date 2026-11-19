@@ -1,4 +1,4 @@
-package com.dinesh.explainitai.ui.theme
+package com.manisha.explainitai.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

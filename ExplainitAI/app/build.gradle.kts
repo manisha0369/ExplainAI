@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.dinesh.explainitai"
+    namespace = "com.manisha.explainitai"
     compileSdk {
         version = release(37)
     }

@@ -1,4 +1,4 @@
-package com.dinesh.explainitai.utils
+package com.manisha.explainitai.utils
 
 import android.content.Context
 import android.net.Uri

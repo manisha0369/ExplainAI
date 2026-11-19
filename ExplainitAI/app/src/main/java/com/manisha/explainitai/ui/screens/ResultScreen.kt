@@ -1,4 +1,4 @@
-package com.dinesh.explainitai.ui.screens
+package com.manisha.explainitai.ui.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
@@ -8,7 +8,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.dinesh.explainitai.network.MCQ
+import com.manisha.explainitai.network.MCQ
 
 @Composable
 fun ResultScreen(
