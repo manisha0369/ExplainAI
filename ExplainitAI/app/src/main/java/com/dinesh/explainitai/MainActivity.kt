@@ -80,8 +80,7 @@ class MainActivity : ComponentActivity() {
                                 score = screen.score,
                                 total = screen.total,
                                 mcqs = screen.mcqs,
-                                userAnswers = screen.answers,
-                                onRestart = { currentScreen = Screen.SelectPage(screen.uri, screen.returnPage) } // Restores the exact page!
+                                userAnswers = screen.answers, onRestart = { currentScreen = Screen.SelectPage(screen.uri, screen.returnPage) } // Restores the exact page!
                             )
                         }
                     }
